@@ -1,0 +1,10 @@
+[
+  {
+    "package": "IETD",
+    "oncran": true
+  },
+  {
+    "package": "MDBED",
+    "oncran": true
+  }
+]
