@@ -5,6 +5,3 @@
 [submodule "IETD"]
 	path = IETD
 	url = https://github.com/lfduquey/ietd
-[submodule "MDBED"]
-	path = MDBED
-	url = https://github.com/lfduquey/mdbed
